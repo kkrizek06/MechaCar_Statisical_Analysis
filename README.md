@@ -19,6 +19,8 @@ The p-value of our model is 5.35e^-11, which is far below the standard p-value o
 
 Yes, this model effectivley predicts mpg of MechaCar. This conclusion is the result of having a R-squared value of 0.71. This tells us that there is a strong correlation between our independent variables with the dependent variable. 
 
+
+
 **Deliverable 2**
 **Summary Statistics on Suspension Coils**
 
