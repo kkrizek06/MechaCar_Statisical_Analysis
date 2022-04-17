@@ -32,4 +32,7 @@ Module 15
 ![image](https://user-images.githubusercontent.com/96017493/163725221-4571c5af-6fa2-4643-844c-0340b84075cf.png)
 
 
+**Deliverable 4**
+
+**Study Design: MechaCar vs Competition**
 
