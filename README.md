@@ -7,6 +7,9 @@ Module 15
 
 ![image](https://user-images.githubusercontent.com/96017493/163722045-6a4562fb-99a6-4286-92f5-084dd40ea014.png)
 
+1)**Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?**
+
+Vehicle Length and Ground Clearance provide non-random amounts of variance. This conclusion is the result of their P-Values. Vehicle Length has a P-Value of 5.08e^-8 ,and Ground Clearance has a P-Value of 5.21e^-8. Both of these P-values are far less than the standard P-value of 0.05. It is for this reason that we can reject the null hypothesis and assume that our results are non-random. 
 
 **Deliverable 2**
 **Summary Statistics on Suspension Coils**
