@@ -59,3 +59,19 @@ Based on using the standard p-value of 0.05 standard for rejecting the null hypo
 
 **Study Design: MechaCar vs Competition**
 
+1)**What metrics are you going to test?**
+
+I would like to compare finincal data with the competitor. Metrics that I would like to compare are cost of manufacturing and sale price. Comparing this data with our competitor can help us make decisions regarding marketing our product. One approach might be to create a better product and market it as a luxery alternative to the competitor. 
+
+Fuel efficiency, and horsepower are also metrics of interest. Comparing how we compare in power and mpg can help us to market the vehicle. For example if our product has more horsepower but not fuel efficient,we can market our car this way. We can target consumers that desire a more powerful verhicle. 
+
+I would also like compare sales based on cities. Again, this can be a major marketing tool. This gives us an opportunity to find, and exploit advertising opportunities to increase sales. 
+
+2)**What is the null hypothesis or alternative hypothesis?**
+
+The null hypothesis would be that there is no difference in the data with our competitors. Our alternative hypothesis would be that there is a difference in the data. 
+
+3) 
+
+
+
