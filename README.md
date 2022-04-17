@@ -11,6 +11,14 @@ Module 15
 
 Vehicle Length and Ground Clearance provide non-random amounts of variance. This conclusion is the result of their P-Values. Vehicle Length has a P-Value of 5.08e^-8 ,and Ground Clearance has a P-Value of 5.21e^-8. Both of these P-values are far less than the standard P-value of 0.05. It is for this reason that we can reject the null hypothesis and assume that our results are non-random. 
 
+2)**Is the slope of the linear model considered to be zero? Why or why not?**
+
+The p-value of our model is 5.35e^-11, which is far below the standard p-value of 0.05. This implies that we can reject the null hypothesis, which implies that our slope is not zero. 
+
+3)**Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?**
+
+Yes, this model effectivley predicts mpg of MechaCar. This conclusion is the result of having a R-squared value of 0.71. This tells us that there is a strong correlation between our independent variables with the dependent variable. 
+
 **Deliverable 2**
 **Summary Statistics on Suspension Coils**
 
