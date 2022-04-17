@@ -33,6 +33,10 @@ Yes, this model effectivley predicts mpg of MechaCar. This conclusion is the res
 
 ![image](https://user-images.githubusercontent.com/96017493/163723819-ca2dca2c-c9d2-47fc-9c25-97a9e1712990.png)
 
+**Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?**
+
+Yes. The variance for the lots total is 62.29 which is below the recommended 100psi. When looking into the individual lots, there is one lot that far exceeds the 100PSI requirement. Lot1 and Lot2 have variances well under the 100psi however, lot3 has a variance of 170.29. Lot3 does not meet the design specifications for suspecnsion coils. 
+
 **Deliverable 3**
 
 **T-Tests on Suspension Coils**
@@ -44,6 +48,8 @@ Yes, this model effectivley predicts mpg of MechaCar. This conclusion is the res
 ![image](https://user-images.githubusercontent.com/96017493/163725192-99a15ccb-6e20-4c6e-bae2-9f1ef74fe411.png)
 
 ![image](https://user-images.githubusercontent.com/96017493/163725221-4571c5af-6fa2-4643-844c-0340b84075cf.png)
+
+
 
 
 **Deliverable 4**
