@@ -49,6 +49,9 @@ Yes. The variance for the lots total is 62.29 which is below the recommended 100
 
 ![image](https://user-images.githubusercontent.com/96017493/163725221-4571c5af-6fa2-4643-844c-0340b84075cf.png)
 
+**t-test findings**
+
+Based on using the standard p-value of 0.05 standard for rejecting the null hypothesis; we will fail to reject the null hypothesis when using data from all lots. We will also fail to reject the null hypothesis for lot1 and lot2. This implies that there is no difference in the mean values. Lot3 however, has a p-value of 0.04 which is less than the 0.05 standard. This implies that we can reject the null hypotheisis and that there is a difference in the mean value. 
 
 
 
